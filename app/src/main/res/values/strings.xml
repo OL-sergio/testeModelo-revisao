@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testeModelo-revisão</string>
+    <string name="local_name">Local Name</string>
+    <string name="dertail_date">Dertail Date</string>
+    <string name="detail_temperature">Detail Temperature</string>
+    <string name="temperature">Temperature</string>
+    <string name="apagar">Apagar</string>
+    <string name="media">Media</string>
+</resources>
